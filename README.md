@@ -17,8 +17,6 @@ I bring a systems-first perspective — from writing firmware for IoT devices to
 
 ## What I'm building
 
-At **Diligent** (via Improving), I maintain backend platform infrastructure for a global GRC SaaS product across 14 environments, 10 AWS regions, and 12 countries/territories.
-
 **Recent work:**
 - **AI-powered bug triage** — GitHub Actions workflow using Claude Sonnet via AWS Bedrock; 73% time savings vs. manual triage at 100% accuracy, with a two-job safety architecture (read-only triage + approval-gated implementation)
 - **Career OS** — markdown-first, git-tracked system for managing professional narrative, CV tailoring, and career artifacts; integrates Claude-powered agents for CV generation, ATS validation, and job description gap analysis
