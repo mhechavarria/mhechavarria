@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariano Echavarria</h1>
-<h3 align="center">Senior Software Engineer · Backend & Cloud Systems · Remote · from Argentina 🇦🇷</h3>
+<h3 align="center">Senior Software Engineer · Backend & Cloud Systems · Remote · from Argentina <img src="https://flagcdn.com/24x18/ar.png" alt="Argentina" width="24" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhechavarria&label=Profile%20views&color=0e75b6&style=flat" alt="mhechavarria" /> </p>
 
