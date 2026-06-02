@@ -37,9 +37,16 @@ Electronic Engineer turned software engineer with ~10 years building backend sys
 
 Spanish (native) · English (C2 Proficient) · French (B1 · DELF certified) · Portuguese (working)
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhechavarria&show_icons=true&locale=en&layout=compact" alt="mhechavarria" /></p>
+<h3 align="left">📊 GitHub</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhechavarria&show_icons=true&locale=en" alt="mhechavarria" /></p>
+<p align="left">
+<a href="https://github.com/mhechavarria?tab=followers"><img src="https://img.shields.io/github/followers/mhechavarria?label=Followers&logo=github&style=for-the-badge&labelColor=0d1117&color=0e75b6" alt="GitHub followers" /></a>
+</p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=mhechavarria&" alt="mhechavarria" /></p>
+<b>📌 Featured repositories</b>
+
+<p align="left">
+<a href="https://github.com/mhechavarria/career-os"><img src="https://img.shields.io/github/last-commit/mhechavarria/career-os?label=career-os&logo=github&style=flat-square&labelColor=0d1117&color=0e75b6" alt="career-os" /></a>
+<a href="https://github.com/mhechavarria/color-caps-classifier"><img src="https://img.shields.io/github/last-commit/mhechavarria/color-caps-classifier?label=color-caps-classifier&logo=github&style=flat-square&labelColor=0d1117&color=0e75b6" alt="color-caps-classifier" /></a>
+<a href="https://github.com/mhechavarria/ultrasonic_meter"><img src="https://img.shields.io/github/last-commit/mhechavarria/ultrasonic_meter?label=ultrasonic_meter&logo=github&style=flat-square&labelColor=0d1117&color=0e75b6" alt="ultrasonic_meter" /></a>
+</p>
