@@ -42,4 +42,4 @@ Spanish (native) · English (C2 Proficient) · French (B1 · DELF certified) · 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhechavarria&show_icons=true&locale=en" alt="mhechavarria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhechavarria&" alt="mhechavarria" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=mhechavarria&" alt="mhechavarria" /></p>
